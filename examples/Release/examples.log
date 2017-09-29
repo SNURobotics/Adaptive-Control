@@ -1,0 +1,15 @@
+﻿  AdaptiveControl.cpp
+  DynamicsMatrix.cpp
+  main.cpp
+  Mapping_Inertia.cpp
+  robot1.cpp
+robot1.cpp(42): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  WAM7.cpp
+WAM7.cpp(27): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  2136 of 2142 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    26 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  examples.vcxproj -> C:\Users\Taeyoon Lee\Desktop\두견\srLib_vs2015\\_EXE\main.exe
+  examples.vcxproj -> C:\Users\Taeyoon Lee\Desktop\두견\srLib_vs2015\\_EXE\main.pdb (Full PDB)
